@@ -1,0 +1,34 @@
+<trenes>
+  <tren id="1">
+    <linea>5</linea>
+    <modelo>Serie 2000-A</modelo>
+    <anyo_incorporacion>-3600000</anyo_incorporacion>
+    <empresa_constructora>CAF</empresa_constructora>
+    <cod_cochera>15</cod_cochera>
+    <id_linea>5</id_linea>
+  </tren>
+  <tren id="2">
+    <linea>5</linea>
+    <modelo>Serie 2000-B</modelo>
+    <anyo_incorporacion>-3600000</anyo_incorporacion>
+    <empresa_constructora>CAF</empresa_constructora>
+    <cod_cochera>15</cod_cochera>
+    <id_linea>5</id_linea>
+  </tren>
+  <tren id="3">
+    <linea>5</linea>
+    <modelo>Serie 3000</modelo>
+    <anyo_incorporacion>-3600000</anyo_incorporacion>
+    <empresa_constructora>CAF</empresa_constructora>
+    <cod_cochera>15</cod_cochera>
+    <id_linea>5</id_linea>
+  </tren>
+  <tren id="4">
+    <linea>9</linea>
+    <modelo>Serie 5000</modelo>
+    <anyo_incorporacion>-3600000</anyo_incorporacion>
+    <empresa_constructora>CAF</empresa_constructora>
+    <cod_cochera>1</cod_cochera>
+    <id_linea>9</id_linea>
+  </tren>
+</trenes>
